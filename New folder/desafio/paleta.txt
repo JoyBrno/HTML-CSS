@@ -1,0 +1,6 @@
+Vermelho (ordem decrescente)
+- #F50801
+- #C22C27
+- #8F3C39
+- #5C3837
+- black

@@ -1,0 +1,45 @@
+@charset "UTF_8";
+
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&display=swap');
+
+body {
+    background-image: linear-gradient(to right, #38D672, #2EB15E, #39DB75, #258F4C, #1D703C);
+}
+
+div > p {
+    display: none;
+}
+
+div:hover > p {
+    color: red;
+    display: block;
+    width: 200px;
+}
+
+div:hover {
+    background-color: white;
+}
+
+#titulo {
+    font-family: 'Jacquard 24';
+    display: block;
+    text-align: center;
+}
+
+#titulo:hover {
+    display: block;
+    background-color: rgba(169, 169, 169, 0.308);
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    margin: auto;
+}
+
+main {
+    background-color: white;
+    border-radius: 5px;
+    width: 600px;
+    height: 800px;
+    margin: auto;
+    padding: 20px;
+}
