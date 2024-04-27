@@ -51,7 +51,6 @@ main {
     background-color: white;
     margin: auto;
     padding: 15px;
-    height: 1000px;
 }
 
 main h1 {
@@ -71,11 +70,4 @@ main p {
 #mae {
     padding-top: 15px;
     width: 100%;
-}
-
-footer {
-    text-align: center;
-    background-color: black;
-    color: white;
-    padding: 10px;
 }
